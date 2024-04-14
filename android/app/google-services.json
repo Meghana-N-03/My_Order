@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "790912195650",
+    "firebase_url": "https://greeny-6b1c0-default-rtdb.firebaseio.com",
+    "project_id": "greeny-6b1c0",
+    "storage_bucket": "greeny-6b1c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790912195650:android:bbddff4dd2fb18a4a221db",
+        "android_client_info": {
+          "package_name": "com.example.my_order"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlB1F9sCJfSr47PwSJCeP9GpG4RTpugc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

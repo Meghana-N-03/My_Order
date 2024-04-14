@@ -1,0 +1,48 @@
+{
+    "categories":[
+        {
+        "name":"Dairy Milk",
+        "subcategory":[
+            "Dairy Milk",
+            "Dairy Milk Silk Oreo",
+            "Dairy Milk Silk Bubbly",
+            "Dairy Milk HazelNut"
+           
+        ]
+        },
+    
+  
+        {
+        "name":"Five Star",
+        "subcategory":[
+            "Five Star",
+             "Five Star Bites",
+             "Five Star 3D",
+             "Five Star Oreo"
+        ]
+        },
+        {
+            "name":"Perk",
+            "subcategory":[
+                "Perk",
+                 "Perk Bites"
+            ]
+            },
+        {
+            "name":"Kitkat",
+            "subcategory":[
+                "KitKat",
+                 "KitKat with Wafers",
+                 "Kitkat Gold"
+            ]
+            },
+            {
+                "name":"Munch",
+                "subcategory":[
+                    "Munch",
+                     "Munch Nuts",
+                     "Munch Maha Choco"
+                ]
+                }
+    ]
+}

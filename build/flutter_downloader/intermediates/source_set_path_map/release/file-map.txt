@@ -1,0 +1,16 @@
+vn.hunghd.flutterdownloader.flutter_downloader-jetified-annotation-experimental-1.3.0-0 C:\Users\Padmachandana N\.gradle\caches\transforms-3\461a85fdafc33dd2180346e857b9d395\transformed\jetified-annotation-experimental-1.3.0\res
+vn.hunghd.flutterdownloader.flutter_downloader-lifecycle-runtime-2.3.1-1 C:\Users\Padmachandana N\.gradle\caches\transforms-3\c6190fc95da2368f7061c4da39730ece\transformed\lifecycle-runtime-2.3.1\res
+vn.hunghd.flutterdownloader.flutter_downloader-jetified-core-ktx-1.9.0-2 C:\Users\Padmachandana N\.gradle\caches\transforms-3\dab5eb2afca5adec410f3656653dbc10\transformed\jetified-core-ktx-1.9.0\res
+vn.hunghd.flutterdownloader.flutter_downloader-jetified-window-1.0.0-beta04-3 C:\Users\Padmachandana N\.gradle\caches\transforms-3\dcd4ae7877663079e4037730d1afe8e0\transformed\jetified-window-1.0.0-beta04\res
+vn.hunghd.flutterdownloader.flutter_downloader-core-1.9.0-4 C:\Users\Padmachandana N\.gradle\caches\transforms-3\ddb9c2d7cb0223d6d609984e112a37da\transformed\core-1.9.0\res
+vn.hunghd.flutterdownloader.flutter_downloader-work-runtime-2.7.1-5 C:\Users\Padmachandana N\.gradle\caches\transforms-3\df97309a43f84f964d93d340625e60c1\transformed\work-runtime-2.7.1\res
+vn.hunghd.flutterdownloader.flutter_downloader-jetified-window-java-1.0.0-beta04-6 C:\Users\Padmachandana N\.gradle\caches\transforms-3\e91834c42b4823cd82ea59def47b8589\transformed\jetified-window-java-1.0.0-beta04\res
+vn.hunghd.flutterdownloader.flutter_downloader-jetified-startup-runtime-1.0.0-7 C:\Users\Padmachandana N\.gradle\caches\transforms-3\ed279c6f20609be00ee53a6e230ed63d\transformed\jetified-startup-runtime-1.0.0\res
+vn.hunghd.flutterdownloader.flutter_downloader-main-8 C:\Users\Padmachandana N\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_downloader-1.11.7\android\src\main\res
+vn.hunghd.flutterdownloader.flutter_downloader-release-9 C:\Users\Padmachandana N\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_downloader-1.11.7\android\src\release\res
+vn.hunghd.flutterdownloader.flutter_downloader-pngs-10 D:\my_order\build\flutter_downloader\generated\res\pngs\release
+vn.hunghd.flutterdownloader.flutter_downloader-resValues-11 D:\my_order\build\flutter_downloader\generated\res\resValues\release
+vn.hunghd.flutterdownloader.flutter_downloader-rs-12 D:\my_order\build\flutter_downloader\generated\res\rs\release
+vn.hunghd.flutterdownloader.flutter_downloader-mergeReleaseResources-13 D:\my_order\build\flutter_downloader\intermediates\incremental\release\mergeReleaseResources\merged.dir
+vn.hunghd.flutterdownloader.flutter_downloader-mergeReleaseResources-14 D:\my_order\build\flutter_downloader\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+vn.hunghd.flutterdownloader.flutter_downloader-merged_res-15 D:\my_order\build\flutter_downloader\intermediates\merged_res\release

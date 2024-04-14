@@ -1,0 +1,30 @@
+com.example.my_order.app-jetified-play-services-basement-18.3.0-0 C:\Users\Padmachandana N\.gradle\caches\transforms-3\3ed62eb5b0edb80e997aee17168462fe\transformed\jetified-play-services-basement-18.3.0\res
+com.example.my_order.app-jetified-annotation-experimental-1.3.0-1 C:\Users\Padmachandana N\.gradle\caches\transforms-3\461a85fdafc33dd2180346e857b9d395\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.my_order.app-jetified-core-ktx-1.10.1-2 C:\Users\Padmachandana N\.gradle\caches\transforms-3\556a553f40b6b2b59dbe923ccbc93585\transformed\jetified-core-ktx-1.10.1\res
+com.example.my_order.app-browser-1.5.0-3 C:\Users\Padmachandana N\.gradle\caches\transforms-3\6da02390d92b49c07fa6ee28740369e5\transformed\browser-1.5.0\res
+com.example.my_order.app-jetified-play-services-base-18.1.0-4 C:\Users\Padmachandana N\.gradle\caches\transforms-3\9177af4d079392d69b0f44b5063e6d75\transformed\jetified-play-services-base-18.1.0\res
+com.example.my_order.app-core-1.10.1-5 C:\Users\Padmachandana N\.gradle\caches\transforms-3\a1384076e3d46d36b91f4b1d5c807609\transformed\core-1.10.1\res
+com.example.my_order.app-jetified-firebase-common-20.4.3-6 C:\Users\Padmachandana N\.gradle\caches\transforms-3\bcefbdb4a70dda8ae346de1a3563b87f\transformed\jetified-firebase-common-20.4.3\res
+com.example.my_order.app-lifecycle-runtime-2.3.1-7 C:\Users\Padmachandana N\.gradle\caches\transforms-3\c6190fc95da2368f7061c4da39730ece\transformed\lifecycle-runtime-2.3.1\res
+com.example.my_order.app-jetified-window-1.0.0-beta04-8 C:\Users\Padmachandana N\.gradle\caches\transforms-3\dcd4ae7877663079e4037730d1afe8e0\transformed\jetified-window-1.0.0-beta04\res
+com.example.my_order.app-work-runtime-2.7.1-9 C:\Users\Padmachandana N\.gradle\caches\transforms-3\df97309a43f84f964d93d340625e60c1\transformed\work-runtime-2.7.1\res
+com.example.my_order.app-jetified-window-java-1.0.0-beta04-10 C:\Users\Padmachandana N\.gradle\caches\transforms-3\e91834c42b4823cd82ea59def47b8589\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.my_order.app-jetified-startup-runtime-1.0.0-11 C:\Users\Padmachandana N\.gradle\caches\transforms-3\ed279c6f20609be00ee53a6e230ed63d\transformed\jetified-startup-runtime-1.0.0\res
+com.example.my_order.app-main-12 D:\my_order\android\app\src\main\res
+com.example.my_order.app-release-13 D:\my_order\android\app\src\release\res
+com.example.my_order.app-google-services-14 D:\my_order\build\app\generated\res\google-services\release
+com.example.my_order.app-pngs-15 D:\my_order\build\app\generated\res\pngs\release
+com.example.my_order.app-resValues-16 D:\my_order\build\app\generated\res\resValues\release
+com.example.my_order.app-rs-17 D:\my_order\build\app\generated\res\rs\release
+com.example.my_order.app-mergeReleaseResources-18 D:\my_order\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.my_order.app-mergeReleaseResources-19 D:\my_order\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.my_order.app-merged_res-20 D:\my_order\build\app\intermediates\merged_res\release
+com.example.my_order.app-packaged_res-21 D:\my_order\build\cloud_firestore\intermediates\packaged_res\release
+com.example.my_order.app-packaged_res-22 D:\my_order\build\firebase_auth\intermediates\packaged_res\release
+com.example.my_order.app-packaged_res-23 D:\my_order\build\firebase_core\intermediates\packaged_res\release
+com.example.my_order.app-packaged_res-24 D:\my_order\build\firebase_storage\intermediates\packaged_res\release
+com.example.my_order.app-packaged_res-25 D:\my_order\build\flutter_downloader\intermediates\packaged_res\release
+com.example.my_order.app-packaged_res-26 D:\my_order\build\flutter_share\intermediates\packaged_res\release
+com.example.my_order.app-packaged_res-27 D:\my_order\build\path_provider_android\intermediates\packaged_res\release
+com.example.my_order.app-packaged_res-28 D:\my_order\build\printing\intermediates\packaged_res\release
+com.example.my_order.app-packaged_res-29 D:\my_order\build\url_launcher_android\intermediates\packaged_res\release
